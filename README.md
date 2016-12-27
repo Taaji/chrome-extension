@@ -1,5 +1,5 @@
 # chrome-extension
-An extension for the google chrome browser, created by following a simple tutorial. When clicked on the browser icon which appears next to the address bar at the top of the webpage, the extension opens a new tab. In this new tab, the first hyper link listen on the webpage from which the browser icon was clicked is opened. 
+An extension for the google chrome browser, created by following a simple tutorial. When clicked on the browser icon which appears next to the address bar at the top of the webpage, the extension opens a new tab. In this new tab, the first hyper link listed on the webpage from which the browser icon was clicked is opened. 
 
 To load this extension:
 1. Pack all the files into a folder.
