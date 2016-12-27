@@ -1,5 +1,5 @@
 # chrome-extension
-An extension for the google chrome browser, created by following a simple tutorial. When clicked on the browser icon which appears next to the address bar at the top of the webpage, the extension opens a new tab. In this new tab, the first hyper link listed on the webpage from which the browser icon was clicked is opened. 
+An extension for the google chrome browser, created by following a simple tutorial. When clicked on the extension's browser icon which appears next to the address bar at the top of the webpage, the extension opens a new tab. In this new tab, the first hyper link listed on the webpage from which the browser icon was clicked is opened. 
 
 To load this extension:
 1. Pack all the files into a folder.
@@ -8,4 +8,4 @@ To load this extension:
 4. Click Load unpacked extension… to pop up a file-selection dialog.
 5. Navigate to the directory in which your extension files live, and select it.
 
-If everything goes well, an icon like ![My image](Taaji.github.com/chrome-extension/icon.png) should get displayed next to the address bar.
+If everything goes well, an icon like ![My image](https://developer.chrome.com/extensions/examples/tutorials/getstarted/icon.png) should get displayed next to the address bar.
