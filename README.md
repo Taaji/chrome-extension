@@ -10,3 +10,5 @@ To load this extension:
 5. Navigate to the directory in which your extension files live, and select it.
 
 If everything goes well, an icon like ![My image](https://developer.chrome.com/extensions/examples/tutorials/getstarted/icon.png) should get displayed next to the address bar.
+
+Note: The extension uses a minified jQuery version. You can use your own version instead.
