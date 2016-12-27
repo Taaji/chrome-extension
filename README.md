@@ -4,7 +4,6 @@ An extension for the google chrome browser, created by following a simple tutori
 To load this extension:
 
 1. Pack all the files into a folder.
-
 2. Visit chrome://extensions in your browser (or open up the Chrome menu by clicking the icon to the far right of the Omnibox:      alt tag and select Extensions under the Tools menu to get to the same place).
 
 3. Ensure that the Developer mode checkbox in the top right-hand corner is checked.
